@@ -13,6 +13,11 @@
 
 ---
 
+## 📫 How to Reach Me
+- Email: [nazwafinanda@gmail.com]  
+- [LinkedIn](www.linkedin.com/in/nazwafinanda)
+
+---
 ## 📊 GitHub Stats
 
 <div align="center">
