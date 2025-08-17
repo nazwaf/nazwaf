@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing effect -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nazwa!+%F0%9F%91%8B;Welcome+to+my+GitHub!;Fullstack+Developer+%F0%9F%92%BB;Always+Learning+New+Things+✨" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nazwa+Finanda+Olinvia!+%F0%9F%91%8B;Welcome+to+my+GitHub!;Fullstack+Developer+%F0%9F%92%BB;Always+Learning+New+Things+✨" alt="Typing SVG" />
 
 <!-- Cute cartoon gif -->
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="220"/>
