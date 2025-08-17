@@ -1,16 +1,15 @@
 <div align="center">
 
-<!-- Typing effect -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nazwa+Finanda+Olinvia!+%F0%9F%91%8B;Welcome+to+my+GitHub!;Fullstack+Developer+%F0%9F%92%BB;Always+Learning+New+Things+✨" alt="Typing SVG" />
+  <!-- Typing effect -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF69B4&width=600&lines=Hi%2C+I'm+Nazwa+Finanda+Olinvia!+👋;Welcome+to+my+GitHub!;Fullstack+Developer+💻;Always+Learning+New+Things+✨" alt="Typing SVG" />
 
-<!-- Cute cartoon gif -->
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="220"/>
+  <br>
 
-<!-- Visitor counter -->
-  
-![Visitor Count](https://komarev.com/ghpvc/?username=nazwaf&label=Visitors&color=ff69b4&style=for-the-badge)
+  <!-- Visitor counter -->
+  <img src="https://komarev.com/ghpvc/?username=nazwaf&label=Visitors&color=ff69b4&style=for-the-badge" alt="Visitor Count" />
 
 </div>
+
 
 ---
 
@@ -18,14 +17,18 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nazwaf&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazwaf&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+<!-- Total GitHub Stats -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nazwaf&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=15" />
+
+<!-- Top Languages -->
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazwaf&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=15" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=nazwaf&theme=tokyonight&hide_border=true&border_radius=15" />
+<!-- Contribution Streak -->
+<img src="https://streak-stats.demolab.com?user=nazwaf&theme=tokyonight&hide_border=true&border_radius=15&date_format=%5BY%20%5DM%20j" />
 
 </div>
 
@@ -42,17 +45,7 @@
 
 ---
 
-## 🎮 Contribution Graph
-✨ Here’s a fun & adorable way to see my contribution graph ✨  
-
-![Nazwa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nazwaf&bg_color=0d1117&color=ffb6c1&line=ff69b4&point=ffffff&area=true&hide_border=true)
-
+## 🎮 Contribution Graph ✨ 
+ ![Contribution Animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 
 ---
-
-<div align="center">
-
-✨ Thanks for visiting! ✨  
-<img src="https://media.giphy.com/media/5xaOcLGvzHxDKjufnLW/giphy.gif" width="150"/>
-
-</div>
