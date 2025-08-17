@@ -14,7 +14,7 @@
 - Database design & API integration  
 
 ### 📫 How to Reach Me
-- [Email](nazwafinanda@gmail.com)  
+- nazwafinanda@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/nazwafinanda/)
 
 ### ⚡ Fun Fact
