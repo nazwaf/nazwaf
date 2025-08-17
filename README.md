@@ -1,16 +1,21 @@
-## Hi there 👋
+## Heyoo!! 👋 I'm Nazwa Finanda Olinvia
 
-<!--
-**nazwaf/nazwaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀Passionate about Fullstack Development and exploring how technology can solve real-world problems.  
+💡 I enjoy building projects that combine creativity with functionality.  
 
-Here are some ideas to get you started:
+### 🌱 Currently Learning
+- Advanced Web Development (React, Node.js, Tailwind CSS)  
+- Machine Learning basics  
+- Game Development for interactive applications  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬 Ask Me About
+- Fullstack Development
+- Building websites with modern frameworks  
+- Database design & API integration  
+
+### 📫 How to Reach Me
+- [Email](nazwafinanda@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/nazwafinanda/)
+
+### ⚡ Fun Fact
+When I’m not coding, I enjoy designing, exploring new tech tools, and spending time with my cat 🐾  
