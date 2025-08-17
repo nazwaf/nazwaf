@@ -2,27 +2,29 @@ name: Generate Contribution Graph Bunny 🐰
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # update tiap 12 jam
-  workflow_dispatch:       # bisa dijalankan manual
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
-    name: Generate Bunny Graph
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v2
 
-      - name: Generate Bunny Graph
-        uses: yoshi389111/github-profile-3d-contrib@0.7.0
+      - name: Generate bunny animation
+        uses: Platane/snk@master
         with:
-          username: ${{ github.repository_owner }}
-          theme: "github-dark"  # bisa diganti light/dark sesuai tema
-          animation: "bunny"    # 🔹 inilah animasinya (bisa diganti nanti)
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-bunny.svg
+            dist/github-contribution-grid-bunny-dark.svg?palette=github-dark
+          # Bunny template custom
+          github_token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push to output branch
-        uses: peaceiris/actions-gh-pages@v3
+        uses: crazy-max/ghaction-github-pages@v2
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./out
-          publish_branch: output
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
