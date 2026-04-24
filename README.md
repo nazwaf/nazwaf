@@ -14,7 +14,7 @@
 ---
 
 ## 📫 How to Reach Me
-- Email: [nazwafinanda@gmail.com]  
+- Email: [zwafinandavia@gmail.com]  
 - [LinkedIn](www.linkedin.com/in/nazwafinanda)
 
 ---
